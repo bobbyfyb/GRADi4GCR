@@ -1,14 +1,14 @@
-<h1 align="center">ReComDLM</h1>
+<h1 align="center">GRADi4GCR</h1>
 
 <p align="center">
-Retrieval-augmented Commonsense Reasoning with Diffusion Language Models
+Generalized Retrieval-Augmented Diffusion For Generative Commonsense Reasoning
 </p>
 
 ## Overview
 
-**ReComDLM** is a novel framework that integrates retrieval-augmented generation (RAG) with diffusion language models (DLMs) to enhance commonsense reasoning capabilities. This project provides training and inference code, along with datasets and evaluation scripts for commonsense reasoning benchmarks.
+**GRADi4GCR** is a novel framework that integrates retrieval-augmented generation (RAG) with diffusion language models (DLMs) to enhance commonsense reasoning capabilities. This project provides training and inference code, along with datasets and evaluation scripts for commonsense reasoning benchmarks.
 
-Built upon the [dLLM](https://github.com/ZHZisZZ/dllm) foundation, ReComDLM demonstrates how recommendation and retrieval systems can augment diffusion-based language models to achieve superior performance on complex reasoning tasks.
+Built upon the [dLLM](https://github.com/ZHZisZZ/dllm) foundation, GRADi4GCR demonstrates how recommendation and retrieval systems can augment diffusion-based language models to achieve superior performance on complex reasoning tasks.
 
 ## Quick Start
 
